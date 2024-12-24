@@ -1,5 +1,18 @@
 # Build an Ember.js Blog
 
+## How to use this repo?
+```
+git clone https://github.com/gtechsltn/Build-Ember-Blog.git
+nvm install 12.22.9
+nvm use 12.22.9
+npm install -g ember-cli@3.10.1
+cd src
+npm install
+ember s
+```
+
+## Guidance for developers of develop an Ember.js application
+
 Ember.js Installation
 
 https://www.geeksforgeeks.org/ember-js-installation/
