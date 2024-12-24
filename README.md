@@ -9,8 +9,15 @@ nvm install 12.22.9
 nvm use 12.22.9
 npm install -g ember-cli@3.10.1
 cd Build-Ember-Blog\src
+code .
+```
+
+Visual Studio Code: Open the terminal by selecting View > Terminal from the menu bar, or by pressing the **Ctrl+`** keyboard shortcut.
+
+```
 npm install
 ember s
+F5
 ```
 
 ## Guidance for developers of develop an Ember.js application
