@@ -83,7 +83,7 @@ ember serve
 ember g component <component-name>
 ```
 
-## Using Ember’s router
+## Using Ember's router
 ```
 ember g route <route-name>
 ```
@@ -110,6 +110,25 @@ ember g route <route-name>
         </div>
     </div>
 </div>
+```
+
+## Model
+```
+model() {
+```
+  return this.store.findAll('user');
+}
+```
+
+## Model (Adding Catch Block for Returned Promise)
+```
+model() {
+  let userPromise = this.store.findAll('user');
+  userPromise.catch((error) => {
+    // transition to another route and show some error notification saying your team is doing their best to fix the problem
+  });
+  return userPromise; 
+}
 ```
 ## Run Ember application
 ```
