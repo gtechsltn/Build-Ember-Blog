@@ -41,7 +41,7 @@ node -v
 npm -v
 nvm -v
 ember -v
-dotnet -v
+dotnet --version
 ```
 
 ```
