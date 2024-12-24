@@ -24,6 +24,13 @@ npm install
 ember s
 F5
 ```
+# Tech Stack
+```
+Handlebars
+jQuery v3.7.1
+Boostrap v3.3.7
+HTML5 Boilerplate v4.2.0
+```
 
 ## Guidance for developers of develop an Ember.js application
 
