@@ -265,10 +265,16 @@ See http://ember-cli.com/user-guide/#windows for details.
       "name": "Launch Chrome against localhost",
       "url": "http://localhost:4200",
       "runtimeArgs": [
-        "--disable-web-security"
+        "--disable-web-security",
+        "--ignore-certificate-errors"
       ],
       "webRoot": "${workspaceFolder}"
     }
   ]
 }
+```
+
+### Disable web security in Google Chrome
+```
+You are using an unsupported command-line flag: --disable-web-security. Stability and security will suffer
 ```
