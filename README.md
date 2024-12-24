@@ -4,7 +4,7 @@ Ember.js Installation
 
 https://www.geeksforgeeks.org/ember-js-installation/
 
-Ember.js Create Applicatio
+Ember.js Create Application
 
 https://www.geeksforgeeks.org/ember-js-create-application/
 
