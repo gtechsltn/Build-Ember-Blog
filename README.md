@@ -14,6 +14,8 @@ code .
 
 Visual Studio Code: Open the terminal by selecting View > Terminal from the menu bar, or by pressing the **Ctrl+`** keyboard shortcut.
 
+https://code.visualstudio.com/docs/terminal/getting-started
+
 ```
 npm install
 ember s
