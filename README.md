@@ -250,3 +250,25 @@ D:\gtechsltn\Build-Ember-Blog\src>ember s
 Running without permission to symlink will degrade build performance.
 See http://ember-cli.com/user-guide/#windows for details.
 ```
+
+# Visual Studio Code Chrome Debugger disable web security (.vscode\launch.json)
+```
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Chrome against localhost",
+      "url": "http://localhost:4200",
+      "runtimeArgs": [
+        "--disable-web-security"
+      ],
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
+```
