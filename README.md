@@ -1,5 +1,7 @@
 # Build an Ember.js Blog
 
+https://servicestack.net/posts/
+
 ## How to use this repo on Windows 11 (64-bit)?
 + Install Git for Windows, Node.js, NVM, Visual Studio Code, Google Chrome, Ember CLI
 + Run some the following commands as in a queue
