@@ -14,17 +14,24 @@ https://www.freecodecamp.org/news/setting-up-a-basic-ember-js-app-c9323760c675/
 ```
 ## Setup Node.js and NVM
 ```
-C:\Users\ADMIN\AppData\Roaming\nvm\temp
+C:\Users\ADMIN\AppData\Roaming\npm\
+C:\Users\ADMIN\AppData\Roaming\nvm\temp\
+D:\gtechsltn\Build-Ember-Blog\
 ```
 
 ## Set up ember-cli
 ```
-D:\gtechsltn\Build-Ember-Blog> npm install -g ember-cli
+npm install -g ember-cli
 ```
 
-## Creating components
+## Set up ember-cli (version 3.10.1)
 ```
-D:\gtechsltn\Build-Ember-Blog> ember -v
+npm install -g ember-cli@3.10.1
+```
+
+## Check ember version
+```
+ember -v
 ember-cli: 3.10.1
 node: 12.22.9
 os: win32 x64
@@ -32,6 +39,7 @@ os: win32 x64
 
 ## Creating a new application
 ```
+ember new Ember-Blog
 ```
 
 ## Creating components
