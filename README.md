@@ -1,5 +1,9 @@
 # Build an Ember.js Blog
 
+Ember.js Installation
+
+https://www.geeksforgeeks.org/ember-js-installation/
+
 How to set up a Basic Ember.js app
 
 https://www.freecodecamp.org/news/setting-up-a-basic-ember-js-app-c9323760c675/
