@@ -240,3 +240,13 @@ rm -rf node_modules bower_components
 npm install && bower install
 npm install && yarn install
 ```
+
+```
+D:\gtechsltn\Build-Ember-Blog\src>npm install
+D:\gtechsltn\Build-Ember-Blog\src>ember s
+```
+
+```
+Running without permission to symlink will degrade build performance.
+See http://ember-cli.com/user-guide/#windows for details.
+```
