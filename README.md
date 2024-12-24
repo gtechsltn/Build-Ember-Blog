@@ -4,6 +4,10 @@ Ember.js Installation
 
 https://www.geeksforgeeks.org/ember-js-installation/
 
+How to display a list of items
+
+https://guides.emberjs.com/v2.6.0/templates/displaying-a-list-of-items/
+
 How to set up a Basic Ember.js app
 
 https://www.freecodecamp.org/news/setting-up-a-basic-ember-js-app-c9323760c675/
