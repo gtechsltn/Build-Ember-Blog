@@ -66,6 +66,8 @@ os: win32 x64
 ## Creating a new application
 ```
 ember new Ember-Blog
+cd Ember-Blog
+ember serve
 ```
 
 ## Creating components
@@ -103,6 +105,7 @@ ember g route <route-name>
 ```
 ## Run Ember application
 ```
+cd Ember-Blog
 ember serve
 ```
 
