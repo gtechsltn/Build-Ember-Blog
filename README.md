@@ -134,21 +134,29 @@ model() {
 ```
 cd Ember-Blog
 ember serve
+```
 
 Running without permission to symlink will degrade build performance.
+
+
 See http://ember-cli.com/user-guide/#windows for details.
 
 
 Build successful (27691ms) – Serving on http://localhost:4200/
 
 Slowest Nodes (totalTime >= 5%)                                 | Total (avg)
+
 ----------------------------------------------------------------+----------------
+
 Babel: @ember/test-helpers (2)                                  | 6625ms (3312 ms)
+
 Packaged Javascript (1)                                         | 5034ms
+
 Application Dist (1)                                            | 4220ms
+
 broccoli-persistent-filter:EslintValidationFilter (2)           | 2896ms (1448 ms)
+
 Rollup (1)                                                      | 1522ms
-```
 
 ## Test Ember application
 ```
