@@ -28,6 +28,10 @@ F5
 
 https://github.com/h5bp/html5-boilerplate/
 
+https://www.npmjs.com/package/create-html5-boilerplate
+
+https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/
+
 https://github.com/gtechsltn/ember-template-boilerplate
 
 https://github.com/gtechsltn/ember-boilerplate-template
