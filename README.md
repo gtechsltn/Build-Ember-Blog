@@ -278,3 +278,23 @@ See http://ember-cli.com/user-guide/#windows for details.
 ```
 You are using an unsupported command-line flag: --disable-web-security. Stability and security will suffer
 ```
+
+## Git Status
+```
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   package-lock.json
+        modified:   package.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../Ember-Blog/
+        .vscode/
+        jsconfig.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
