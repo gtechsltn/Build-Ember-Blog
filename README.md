@@ -217,3 +217,14 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/gtechsltn/Build-Ember-Blog/
    37c1dd3..29f855b  master -> master
 ```
+
+# Setup Visual Studio Code
++ Copy all files from **Ember-Blog** folder to **src** folder
++ Remove submodules **Ember-Blog**
++ Install Visual Studio Code
+ 
+```
+D:\gtechsltn\Build-Ember-Blog>cd src
+D:\gtechsltn\Build-Ember-Blog\src>code .
+D:\gtechsltn\Build-Ember-Blog\src>ember s
+```
