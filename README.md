@@ -30,10 +30,14 @@ https://www.freecodecamp.org/news/setting-up-a-basic-ember-js-app-c9323760c675/
 + https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 + https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/
 
+### Source Folder (Directory)
 ```
 C:\Users\ADMIN\AppData\Roaming\npm\
+C:\Users\ADMIN\AppData\Roaming\npm-cache\
 C:\Users\ADMIN\AppData\Roaming\nvm\temp\
+C:\Program Files\Google\Chrome\Application\chrome.exe
 D:\gtechsltn\Build-Ember-Blog\
+D:\gtechsltn\Build-Ember-Blog\src\
 ```
 
 ```
