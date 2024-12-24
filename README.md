@@ -222,9 +222,13 @@ To https://github.com/gtechsltn/Build-Ember-Blog/
 + Copy all files from **Ember-Blog** folder to **src** folder
 + Remove submodules **Ember-Blog**
 + Install Visual Studio Code
++ Install Bower and Yarn
  
 ```
 D:\gtechsltn\Build-Ember-Blog>cd src
 D:\gtechsltn\Build-Ember-Blog\src>code .
+D:\gtechsltn\Build-Ember-Blog\src>npm install bower
+D:\gtechsltn\Build-Ember-Blog\src>npm install yarn
+D:\gtechsltn\Build-Ember-Blog\src>bower install
 D:\gtechsltn\Build-Ember-Blog\src>ember s
 ```
