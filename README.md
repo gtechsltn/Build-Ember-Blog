@@ -13,8 +13,12 @@ https://www.freecodecamp.org/news/setting-up-a-basic-ember-js-app-c9323760c675/
 6. Explore the "each" helper for iterating over data
 ```
 ## Setup Node.js and NVM
+
+### How to Install Node.js and npm on Windows
 + https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows/
 + https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/
+
+### Node Version Manager – NVM Install Guide
 + https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 + https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/
 
@@ -24,12 +28,24 @@ C:\Users\ADMIN\AppData\Roaming\nvm\temp\
 D:\gtechsltn\Build-Ember-Blog\
 ```
 
+```
+nvm -v
+1.1.12
+
+nvm install 12.22.9
+Downloading node.js version 12.22.9 (64-bit)...
+Complete
+
+nvm use 12.22.9
+Now using node v12.22.9 (64-bit)
+```
+
 ## Setup Git and dotnet-cli
 ```
 dotnet new gitignore --force
 ```
 
-## Set up ember-cli
+## Set up ember-cli (latest version)
 ```
 npm install -g ember-cli
 ```
@@ -84,6 +100,15 @@ ember g route <route-name>
         </div>
     </div>
 </div>
+```
+## Run Ember application
+```
+ember serve
+```
+
+## Test Ember application
+```
+ember test
 ```
 
 ## Deploy Ember application to Heroku
