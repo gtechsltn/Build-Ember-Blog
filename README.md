@@ -37,6 +37,14 @@ D:\gtechsltn\Build-Ember-Blog\
 ```
 
 ```
+node -v
+npm -v
+nvm -v
+ember -v
+dotnet -v
+```
+
+```
 nvm -v
 1.1.12
 
@@ -90,7 +98,7 @@ ember g route <route-name>
 
 ## Configuring the output of Ember's router
 
-### application.hbs
+### app/templates/application.hbs
 ```
 {{#link-to 'videos'}}Videos{{/link-to}}
 ```
