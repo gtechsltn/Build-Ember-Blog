@@ -1,6 +1,8 @@
 # Build an Ember.js Blog
 
-## How to use this repo?
+## How to use this repo on Windows 11 (64-bit)?
++ Install Git for Windows, Node.js, NVM, Visual Studio Code, Google Chrome, Ember CLI
++ Run some the following commands as in a queue
 ```
 git clone https://github.com/gtechsltn/Build-Ember-Blog.git
 nvm install 12.22.9
