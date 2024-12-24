@@ -33,11 +33,16 @@ https://github.com/gtechsltn/ember-template-boilerplate
 https://github.com/gtechsltn/ember-boilerplate-template
 
 ```
-Handlebars
-jQuery v3.7.1
-Boostrap v3.3.7
-HTML5 Boilerplate v4.2.0
+npx create-html5-boilerplate new-site
+cd new-site
+npm install
+npm run start
 ```
+
++ Handlebars
++ jQuery v3.7.1
++ Boostrap v3.3.7
++ HTML5 Boilerplate v4.2.0
 
 ## Guidance for developers of develop an Ember.js application
 
