@@ -13,6 +13,11 @@ https://www.freecodecamp.org/news/setting-up-a-basic-ember-js-app-c9323760c675/
 6. Explore the "each" helper for iterating over data
 ```
 ## Setup Node.js and NVM
++ https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows/
++ https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/
++ https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
++ https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/
+
 ```
 C:\Users\ADMIN\AppData\Roaming\npm\
 C:\Users\ADMIN\AppData\Roaming\nvm\temp\
