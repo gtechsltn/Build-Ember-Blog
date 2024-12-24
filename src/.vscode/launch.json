@@ -11,7 +11,8 @@
       "url": "http://localhost:4200",
       "runtimeArgs": [
         "--disable-web-security",
-        "--ignore-certificate-errors"
+        "--ignore-certificate-errors",
+        "--extensions-on-chrome-urls"
       ],
       "webRoot": "${workspaceFolder}"
     }
