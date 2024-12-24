@@ -232,3 +232,9 @@ D:\gtechsltn\Build-Ember-Blog\src>npm install yarn
 D:\gtechsltn\Build-Ember-Blog\src>bower install
 D:\gtechsltn\Build-Ember-Blog\src>ember s
 ```
+
+```
+npm cache clear && bower cache clean
+rm -rf node_modules bower_components
+npm install && bower install
+```
