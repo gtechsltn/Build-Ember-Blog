@@ -115,7 +115,6 @@ ember g route <route-name>
 ## Model
 ```
 model() {
-```
   return this.store.findAll('user');
 }
 ```
@@ -134,13 +133,10 @@ model() {
 ```
 cd Ember-Blog
 ember serve
-```
 
 Running without permission to symlink will degrade build performance.
 
-
 See http://ember-cli.com/user-guide/#windows for details.
-
 
 Build successful (27691ms) – Serving on http://localhost:4200/
 
@@ -157,6 +153,7 @@ Application Dist (1)                                            | 4220ms
 broccoli-persistent-filter:EslintValidationFilter (2)           | 2896ms (1448 ms)
 
 Rollup (1)                                                      | 1522ms
+```
 
 ## Test Ember application
 ```
