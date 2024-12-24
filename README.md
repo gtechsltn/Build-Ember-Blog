@@ -6,7 +6,7 @@ git clone https://github.com/gtechsltn/Build-Ember-Blog.git
 nvm install 12.22.9
 nvm use 12.22.9
 npm install -g ember-cli@3.10.1
-cd src
+cd Build-Ember-Blog\src
 npm install
 ember s
 ```
