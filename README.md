@@ -24,6 +24,11 @@ C:\Users\ADMIN\AppData\Roaming\nvm\temp\
 D:\gtechsltn\Build-Ember-Blog\
 ```
 
+## Setup Git and dotnet-cli
+```
+dotnet new gitignore --force
+```
+
 ## Set up ember-cli
 ```
 npm install -g ember-cli
