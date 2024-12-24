@@ -138,8 +138,6 @@ Running without permission to symlink will degrade build performance.
 
 See http://ember-cli.com/user-guide/#windows for details.
 
-
-
 Build successful (27691ms) – Serving on http://localhost:4200/
 
 Slowest Nodes (totalTime >= 5%)                                 | Total (avg)
