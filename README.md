@@ -174,3 +174,46 @@ ember test
 ### Material Design Lite for Ember.js Apps
 + https://github.com/mike-north/ember-material-lite
 + https://github.com/gtechsltn/ember-material-lite
+
+# Git Submodules
+```
+git rm --cached Ember-Blog
+commit -m "Removed submodule Ember-Blog"
+```
+
+```
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Ember-Blog/
+
+nothing added to commit but untracked files present (use "git add" to track)
+```
+
+```
+git push
+```
+
+```
+git push
+warning: ----------------- SECURITY WARNING ----------------
+warning: | TLS certificate verification has been disabled! |
+warning: ---------------------------------------------------
+warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
+warning: ----------------- SECURITY WARNING ----------------
+warning: | TLS certificate verification has been disabled! |
+warning: ---------------------------------------------------
+warning: HTTPS connections may not be secure. See https://aka.ms/gcm/tlsverify for more information.
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 20 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 246 bytes | 246.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/gtechsltn/Build-Ember-Blog/
+   37c1dd3..29f855b  master -> master
+```
