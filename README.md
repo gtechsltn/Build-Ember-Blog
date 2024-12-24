@@ -1,2 +1,1 @@
-# Build-Ember-Blog
-Build an Ember.js Blog
+# Build an Ember.js Blog
