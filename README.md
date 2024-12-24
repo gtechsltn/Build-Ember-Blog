@@ -30,6 +30,14 @@ https://github.com/h5bp/html5-boilerplate/
 
 https://www.npmjs.com/package/create-html5-boilerplate
 
+https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/
+
+https://github.com/h5bp/html5-boilerplate/blob/v4.2.0/
+
+https://gist.github.com/gtechsltn/c56de381dca4b366b4386826a655d705
+
+https://medium.com/codebagng/working-with-html5-boilerplate-fca93b9b61e9
+
 https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/
 
 https://github.com/gtechsltn/ember-template-boilerplate
