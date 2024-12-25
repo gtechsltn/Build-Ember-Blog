@@ -30,6 +30,8 @@ https://github.com/h5bp/html5-boilerplate/
 
 https://www.npmjs.com/package/create-html5-boilerplate
 
+https://github.com/h5bp/create-html5-boilerplate
+
 https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/
 
 https://github.com/h5bp/html5-boilerplate/blob/v4.2.0/
@@ -461,3 +463,26 @@ https://www.reddit.com/r/Frontend/comments/29ycd4/tips_for_an_aspiring_frontend_
 https://www.quora.com/For-an-interview-as-a-front-end-web-app-developer-what-HTML5-CSS3-and-JS-concepts-should-I-master/
 
 https://www.quora.com/What-do-I-need-to-learn-for-an-entry-level-front-end-development-job-What-languages-frameworks-and-databases-do-I-need-to-learn/
+
+# HTML, CSS, JavaScript
+
+https://github.com/SuperSimpleDev/github-pages-example/
+
+https://github.com/SuperSimpleDev/github-pages-course-2022/
+
+https://github.com/SuperSimpleDev/html-css-course-2022/
+
+https://courses.supersimple.dev/courses/html-css
+
+https://courses.supersimple.dev/courses/javascript
+
+# GitHub Pages, HTML, CSS and JavaScript
+
++ https://github.com/SuperSimpleDev/html-css-course-2022/
++ https://github.com/gtechsltn/html-css-course-2022/
+
++ https://github.com/SuperSimpleDev/github-pages-course-2022/
++ https://github.com/gtechsltn/github-pages-course-2022/
+
++ https://github.com/SuperSimpleDev/javascript-course/
++ https://github.com/gtechsltn/javascript-course/
