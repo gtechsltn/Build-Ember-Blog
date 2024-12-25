@@ -457,4 +457,6 @@ https://mariechatfield.com/tutorials/web-app/
 
 https://www.reddit.com/r/Frontend/comments/29ycd4/tips_for_an_aspiring_frontend_dev_coming_from_a/
 
-https://www.quora.com/For-an-interview-as-a-front-end-web-app-developer-what-HTML5-CSS3-and-JS-concepts-should-I-master
+https://www.quora.com/For-an-interview-as-a-front-end-web-app-developer-what-HTML5-CSS3-and-JS-concepts-should-I-master/
+
+https://www.quora.com/What-do-I-need-to-learn-for-an-entry-level-front-end-development-job-What-languages-frameworks-and-databases-do-I-need-to-learn/
