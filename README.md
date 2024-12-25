@@ -345,6 +345,46 @@ See http://ember-cli.com/user-guide/#windows for details.
 You are using an unsupported command-line flag: --disable-web-security. Stability and security will suffer
 ```
 
+## Researching
+```
+/*!
+ */
+```
+
+## FE and BE
+
+![FE and BE](https://github.com/user-attachments/assets/3eb6b25b-f2bd-450d-ad13-2cb0e8f3ad49)
+
+![FE and BE](https://qph.cf2.quoracdn.net/main-qimg-c29407c9bbba51cd668ee7df585128e8-pjlq)
+
+## Printing
+
+Modern framework to print the web correctly
+
+https://github.com/BafS/Gutenberg
+
+## HTML5 Boilerplate (H5BP) (h5bp) Build Tools
+
+https://initializr.v1v2.io/
+
+https://github.com/h5bp/html5-boilerplate
+
+https://github.com/h5bp/ant-build-script
+
+https://github.com/verekia/initializr
+
+https://github.com/verekia/initializr-template/
+
+https://github.com/verekia/initializr-website/
+
+
+
+```
+npm install --global generator-h5bp
+npm install --global generator-mobile-boilerplate
+npm install --global generator-server-configs
+```
+
 ## Git Status
 ```
 On branch master
