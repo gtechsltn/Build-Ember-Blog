@@ -264,7 +264,6 @@ git push
 ```
 
 ```
-git push
 warning: ----------------- SECURITY WARNING ----------------
 warning: | TLS certificate verification has been disabled! |
 warning: ---------------------------------------------------
@@ -377,7 +376,11 @@ https://github.com/verekia/initializr-template/
 
 https://github.com/verekia/initializr-website/
 
-
+```
+npm install --global generator-h5bp
+npm install --global yo
+yo h5bp
+```
 
 ```
 npm install --global generator-h5bp
