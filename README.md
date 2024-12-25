@@ -356,8 +356,6 @@ You are using an unsupported command-line flag: --disable-web-security. Stabilit
 
 ![FE and BE](https://github.com/user-attachments/assets/3eb6b25b-f2bd-450d-ad13-2cb0e8f3ad49)
 
-![FE and BE](https://qph.cf2.quoracdn.net/main-qimg-c29407c9bbba51cd668ee7df585128e8-pjlq)
-
 ## Printing
 
 Modern framework to print the web correctly
