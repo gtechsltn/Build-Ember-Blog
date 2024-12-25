@@ -423,3 +423,38 @@ https://mariechatfield.com/tutorials/web-app/
 + Create a server with Express
 + Add an interactive Ember route
 + Deploy to Heroku
+
+# Frontend questions
+
+```
+1. Box Model
+2. Absolute positioning
+3. Resposive Design concept
+4. Resposive vs Fixed design vs Fluid vs Adaptive Design
+5. Doctype – in HTML5 and HTML4
+6. Purpose of Doctype
+7. Resposive Design using framework and without using framework
+8. App cache in HTML5
+9. Difference between HTML5 and HTML4
+10. Advanatges of HTML5 and css3
+11. What are the new in CSS3
+12. SVG and Canvas
+13. New selectors in CSS3
+14. Local storage vs session storage
+15. Explain Bootstrap grid system
+16. HTML5 tag support in IE8
+17. CSS media Quries
+18. Block level and inline elements in HTML
+19. Latest vesrion in jquery
+20. Jquery No conflict
+21. Define CDN
+22. Page Loading optimization
+23. Learn Jquery functions
+24. Diffence between on(), bind() and live() in jquery
+25. == and === in javascript
+26. Basics of javascripts
+```
+
+https://www.reddit.com/r/Frontend/comments/29ycd4/tips_for_an_aspiring_frontend_dev_coming_from_a/
+
+https://www.quora.com/For-an-interview-as-a-front-end-web-app-developer-what-HTML5-CSS3-and-JS-concepts-should-I-master
