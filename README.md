@@ -364,6 +364,8 @@ https://github.com/BafS/Gutenberg
 
 ## HTML5 Boilerplate (H5BP) (h5bp) Build Tools
 
+https://html5boilerplate.com/
+
 https://initializr.v1v2.io/
 
 https://github.com/h5bp/html5-boilerplate
@@ -377,9 +379,8 @@ https://github.com/verekia/initializr-template/
 https://github.com/verekia/initializr-website/
 
 ```
-npm install --global generator-h5bp
-npm install --global yo
-yo h5bp
+npm install html5-boilerplate
+yarn add html5-boilerplate
 ```
 
 ```
